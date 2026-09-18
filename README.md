@@ -8,6 +8,8 @@ Keep your Discord desktop session logged in **only while Discord is open**.
 
 Everything runs silently in the background. No console window, no tray icon, no running window to keep open.
 
+> **Disclaimer** - This project is not affiliated with, endorsed by or associated with Discord Inc. It only copies and deletes files that Discord itself writes on your own computer and launches the official Discord app; it does not use Discord's API. Automating a user session may be a gray area under Discord's Terms of Service, so use it at your own risk.
+
 ---
 
 ## Table of contents
@@ -23,6 +25,7 @@ Everything runs silently in the background. No console window, no tray icon, no 
 9. [Troubleshooting](#troubleshooting)
 10. [Uninstalling](#uninstalling)
 11. [FAQ](#faq)
+12. [License](#license)
 
 ---
 
@@ -309,3 +312,11 @@ No. Only Discord's own session files are copied, exactly as Discord wrote them.
 
 **Can I use several accounts?**
 Yes, one at a time: sign in with the account you want, run `1-Backup-Session.bat`, and that account becomes the one restored by the shortcut.
+
+---
+
+## License
+
+MIT, see [LICENSE](LICENSE).
+
+The software is provided as is, without warranty of any kind. See the disclaimer at the top of this document.
