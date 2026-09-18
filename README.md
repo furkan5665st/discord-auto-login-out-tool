@@ -14,18 +14,27 @@ Everything runs silently in the background. No console window, no tray icon, no 
 
 ## Table of contents
 
-1. [How it works](#how-it-works)
-2. [Requirements](#requirements)
-3. [Project structure](#project-structure)
-4. [Installation](#installation)
-5. [Daily usage](#daily-usage)
-6. [Settings](#settings)
-7. [How the monitor works](#how-the-monitor-works)
-8. [Security notes](#security-notes)
-9. [Troubleshooting](#troubleshooting)
-10. [Uninstalling](#uninstalling)
-11. [FAQ](#faq)
-12. [License](#license)
+1. [Download](#download)
+2. [How it works](#how-it-works)
+3. [Requirements](#requirements)
+4. [Project structure](#project-structure)
+5. [Installation](#installation)
+6. [Daily usage](#daily-usage)
+7. [Settings](#settings)
+8. [How the monitor works](#how-the-monitor-works)
+9. [Security notes](#security-notes)
+10. [Troubleshooting](#troubleshooting)
+11. [Uninstalling](#uninstalling)
+12. [FAQ](#faq)
+13. [License](#license)
+
+---
+
+## Download
+
+Grab the latest ZIP from the [Releases](https://github.com/furkan5665st/discord-auto-login-out-tool/releases) page, extract it wherever you like and follow the installation steps below. Git is not required.
+
+The ZIP contains source files only. No session data, no token, nothing machine specific.
 
 ---
 
